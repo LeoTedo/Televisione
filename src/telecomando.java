@@ -13,7 +13,6 @@ public class telecomando {
 	}
 
 	public void accendi(boolean on) {
-
 		onof = true;
 		System.out.println("TV accesa");
 
